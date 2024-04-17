@@ -19,11 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 🎓 I hold a master's degree in cybersecurity from The University of Adelaide, complemented by a bachelor's degree in computer science and engineering from Amrita Vishwa Vidyapeetham, India.
 
-🔒 With experience as a Penetration Tester during my six-month internship at a cybersecurity organization, I gained hands-on knowledge of identifying vulnerabilities and enhancing security measures. Additionally, I contributed as a core team member and content writer for a cybersecurity community, further expanding my expertise.
-
 🌐 I am well-versed in various cybersecurity domains, including Web Security, Network Security and Governance, Risk, and Compliance (GRC). I regularly practice and sharpen my skills in vulnerability analysis and penetration testing, and have explored frameworks such as NIST CSF and RMF, Essential 8 and ISO 27001 guidelines. These experiences have broadened my understanding of cybersecurity from both technical and managerial perspectives. I also have a strong grasp of software development and can adapt to new technologies quickly, a skill gained through materializing numerous research products across various domains.
-
-💼 Looking ahead, I aspire to work as a Penetration Tester, Security Analyst, or GRC Analyst. I am eager to collaborate with diverse teams to enhance my skills and contribute to organizational success. By working with and learning from my peers, I aim to become an invaluable asset in the field of cybersecurity.
 
 ✈️ Outside of work, I indulge in my passion for travel, immerse myself in reading, and enjoy swimming. I also explore my creative side as an amateur photographer.
 
