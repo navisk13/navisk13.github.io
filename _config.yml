@@ -8,7 +8,7 @@ middle_name:
 last_name: Sivakumar
 email: navaneeths1301@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Navaneeth's Home.
+  Navaneeth's Home on the Internet.
 footer_text: >
   Thank you for visiting.
 keywords: # add your own keywords or leave empty
@@ -45,7 +45,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
