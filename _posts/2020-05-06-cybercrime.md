@@ -1,0 +1,41 @@
+---
+layout: post
+title: How organized cyber crimes are operated around the globe
+date: 2020-05-06 00:01:00
+description: Ever wondered how companies are brought down to ruins overnight?
+tags: cyber cyber-crime black-hat-hacking
+categories: technology
+---
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cybercrime_1.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+The phenomenon of our time, the one thing that is transforming professions, companies and industries alike, is **data**. Naturally, when organizations around the world own such a precious resource, there will be people attempting to **gain access** to it, and maybe even take it away from the original owners. Since all this data is mostly stored on the internet, and the means to steal it are also carried out mostly via the internet, this art of stealing is commonly known in today’s world as a cybercrime. By definition, any crime committed using the means of technology and the internet is cybercrime.
+
+The most important thing to note about **cybercrime** is the scale of the crime. Considering the example of a bank, a traditional bank robber may be able to hit one or two **banks** a week, while a cybercriminal can compromise hundreds, if not thousands of bank websites. Attacks are conducted at machine speed. An attacker can write a code that will target multiple sources in minutes.
+
+Many people may have a misconception that **cyber-attacks** are successful only on small scale companies and that large established corporates have a strong cyber threat response team, so they can never be hacked. This is not always the case. There are always chinks in the armour of any company. For example, in January 2019 the email giant **Yahoo**! reported that 273 million usernames and passwords were exposed to cyber attackers. In 2014, AT&T experienced an internal security breach, where three employees accessed customers’ personal information such as social security numbers and dates of birth. Members of the **cybercrime** group need not always be external sources, they could be employees of the company as well. Even the largest tech giant, Google, was a victim of a cyber attack. In September 2014, approximately 5 million usernames and passwords of **Gmail** account holders were compromised and leaked on a Russian forum site. Of these, about **100,000** were legitimate, current and correct username-password combinations. Due to the occurrence of many incidents like these, cybercrime is one of the **FBI’s** top three priorities today.
+
+> Cybercrime is the greatest threat to every company in the world.
+> 
+> -- Ginni Rometty
+
+Most people may picture a basement-dwelling loner when they think of a **cybercriminal**, but that is not the case for the most part. A modern large-scale cybercrime unit looks like a corporate enterprise, and are often more skilled than the security teams working to stop them. More often than not, hackers around the world with varied skill sets come together to target a common victim, thereby giving rise to the word “**organized cybercrime**”. Due to the level of **anonymity** available on the internet today, it is almost impossible to catch them. Organized crime groups typically have a home base in weak states that provide safe havens from which they conduct their transnational operations. In effect, this provides an added degree of protection against law enforcement and allows them to operate with minimal risk.
+
+A cybercrime ring often adheres to an organizational structure with fixed roles, and an agreed-upon chain of command. ​There will be an organizational leader at the top, who is responsible for planning each cyberattack and ensuring that every person below them understands their role and communicates effectively both up and across the chain of command. Below the leader will be various tech specialists, which may include but are not limited to in-house programmers to create malware that spreads quickly and widely while evading detection, network administrators who decide when and where to strike in the network and intrusion specialists who make sure the malware is properly injected and running. Data miners and financial specialists may also be a part of the team, to analyze and structure the data, and determine its worth in various black markets respectively. As cybercriminals carry out transactions via untraceable means such as bitcoin, and the exchange of information is carried out on the dark web, anonymity is easily achieved and it becomes very difficult, if not impossible to track them down.
+
+There are three main ways that **cybercrime** impacts business. The first one is the cost of protection. There are costs in **identifying risks**, building new and safer operating procedures, and buying protective software and hardware. For businesses with complex or sensitive operations, this often involves hiring a cyber-security consultant to develop a customized solution​. Apart from these upfront costs, the systems must be monitored and tested regularly to ensure that they are still effective against emerging cyber-attacks. The next one is when cyber activists attempt to shut down a company’s online operations to protest against the way they are doing business. Major corporations such as **PayPal and Mastercard** have been affected this way. The last way in which a cybercrime can impact business is that companies may be forced to rethink how they store the data to protect it from any **vulnerabilities**. Many companies have stopped collecting sensitive customer data such as social security numbers and dates of birth altogether.
+
+> There are only two types of companies: Those that have been hacked, and those that will be.
+> 
+> -- Robert Mueller
+
+Some of the attack techniques used to carry out an organized cybercrime are botnets, which is a network of software bots used to spread malware, denial of service (DoS) attacks that flood a network or server with a large number of requests, such that no other user will be able to use it, and social engineering techniques which aims to attack a company’s most vulnerable asset, it’s employees. Hacker groups may also use techniques such as a zombie computer, which is a random computer that has been hacked into and is under the control of the hacking group, to launch an attack, thereby increasing the level of anonymity.
+
+There are numerous ways by which an organized cybercrime is carried out. Each group may have its unique method, but we can generate a high-level blueprint of the methodology used by most hacker groups to target an organization. First, a detailed study of the company and the services it offers is conducted. The domains in which the company works are studied and the strength of its cyber threat response team is also analyzed. After learning as much as possible about the company, members of the group physically try to penetrate the company. This may be achieved by social engineering techniques such as establishing contact with employees of the company, befriending security personnel, or sending phishing emails to new employees of the company who are usually more vulnerable, tricking them into giving away sensitive information. Once a pathway into the network has been established, the hackers connect to the network, use penetration testing tools and skills to collect as much data as possible, and maybe even compromise the whole network. Malicious software may be deployed, or ransomware could be set up. Meanwhile, the data they have already collected can be sold to interested parties in the black market. Then, the hackers have to figure out a way to get out of the network and clear their tracks so that they are not caught, and a successful cyberattack is completed.
+
+* * *
+
+Originally written for [Wattlecorp Cybersecurity Labs](https://www.wattlecorp.com/) at [https://www.wattlecorp.com/how-organized-cybercrimes-are-operated-across-the-globe/](https://www.wattlecorp.com/how-organized-cybercrimes-are-operated-across-the-globe/)
