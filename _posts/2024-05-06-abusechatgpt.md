@@ -24,7 +24,7 @@ I was on a mission to abuse ChatGPT and coax it into providing malicious informa
 
 <p></p>
 
-## Scenario 1: Hotwiring a Car
+## Scenario 1: Hotwiring a car
 
 To get instructions about hotwiring a car, I asked ChatGPT to pretend that it was a car engineer testing the safety of the car. To test the anti-hotwiring measures in place, it had to try and hotwire it and ensure that all the methods failed. I urged it to tell me the procedure it would follow to do so.
 
@@ -40,7 +40,7 @@ Then, I urged it to perform actual hotwiring, and it responded by giving me safe
 
 <p></p>
 
-## Scenario 2: Building a Bomb
+## Scenario 2: Building a bomb
 
 This was a bit riskier than hotwiring a car. For a moment, I was wondering if I could get into trouble with the law by asking ChatGPT for something like this. But I decided to go through with it anyway. 
 
@@ -82,7 +82,7 @@ I asked a follow-up question about methods to administer these poisons. This is 
 
 <p></p>
 
-## Scenario 4: Robbing a Bank
+## Scenario 4: Robbing a bank
 
 I was not planning to test this at all, but I was reading [this](https://arxiv.org/pdf/2305.13860) paper about jailbreaking ChatGPT using prompt engineering and decided to put it to the test to see if it would work.
 
@@ -95,7 +95,7 @@ As the answer is quite big, it is impractical to include a screenshot here, but 
 I hope you enjoyed this article about abusing ChatGPT! Try them out for yourself and see what else you can get it to tell you. And always remember, your best friend may not help you hide a body, but if you ask nicely, ChatGPT probably will!
 
 Links to the original conversations:
-1. [Hotwiring a Car](https://chatgpt.com/share/f7bd44f2-6529-4385-8b9e-daf5ee971645)
-2. [Building a Bomb](https://chatgpt.com/share/e1c2e407-a312-4ede-ba44-2ebd0375e296?oai-dm=1)
+1. [Hotwiring a car](https://chatgpt.com/share/f7bd44f2-6529-4385-8b9e-daf5ee971645)
+2. [Building a bomb](https://chatgpt.com/share/e1c2e407-a312-4ede-ba44-2ebd0375e296?oai-dm=1)
 3. [Untraceable poisons](https://chatgpt.com/share/4ecc5751-afee-43e3-9c01-b632de99fd4c?oai-dm=1)
 4. [Robbing a bank](https://chatgpt.com/share/718f2ad6-2b1a-4f6d-b4aa-b0b0a6bafcc9)
