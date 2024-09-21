@@ -109,7 +109,7 @@ Ah ha! I got the other codes as well, similar to the typical ones you find on re
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ctf/promptairlines/challenge5_1.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ctf/promptairlines/challenge5_2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
