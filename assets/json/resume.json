@@ -5,7 +5,7 @@
     "image": "",
     "email": "navaneeths1301@gmail.com",
     "phone": "+61 452 130 157",
-    "summary": "Effective collaborator and problem solver. Driven by a natural curiosity to explore and understand complex challenges. Eager to leverage expertise to strengthen security for organizations."
+    "summary": "Driven cyber security professional with a strong background in computer science and experience in penetration testing, vulnerability assessment and software engineering. Eager to apply my technical expertise and passion for security to protect critical infrastructure and strengthen defences for stakeholders."
   },
   "skills": [
     {
@@ -15,8 +15,9 @@
       "keywords": [
         "Web Pentesting",
         "Network Pentesting",
+        "Security Best Practices",
         "Computer Networks",
-        "GRC"
+        "Security GRC"
       ]
     },
     {
@@ -49,7 +50,7 @@
         "Git",
         "Subversion",
         "Splunk",
-        "Linux & Windows Environments"
+        "Kali Linux and associated tools"
       ]
     },
     {
@@ -68,7 +69,8 @@
       "position": "Software Engineer",
       "startDate": "2024-01-15",
       "endDate": "Present",
-      "highlights": ["Identified limitations in selecting optimal test cases for an LLM testing framework. Implemented methods leveraging various optimization algorithms to improve test case selection efficiency.", 
+      "highlights": ["Engineered a mutation testing approach for Ansible modules, identifying and reporting three new bugs to the community.",
+                     "Identified limitations in selecting optimal test cases for an LLM testing framework. Implemented methods leveraging various optimization algorithms to improve test case selection efficiency.", 
                      "Collaborated on a project to develop an open-source tool framework for the streamlined management of software supply chain metadata generation, distribution and storage."
                     ]
     },
