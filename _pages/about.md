@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-👋 Hello! I'm Navaneeth, a cybersecurity enthusiast with a passion for technology. I currently work as a Software Engineer with The Centre for Research on Engineering Software Technologies (CREST) at The University of Adelaide.
+👋 Hello! I'm Navaneeth (Navi), a cybersecurity enthusiast with a passion for technology. I currently work as a Software Engineer with The Centre for Research on Engineering Software Technologies (CREST) at The University of Adelaide.
 
 🎓 I hold a master's degree in cybersecurity from The University of Adelaide, complemented by a bachelor's degree in computer science and engineering from Amrita Vishwa Vidyapeetham, India.
 
