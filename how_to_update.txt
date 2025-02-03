@@ -1,0 +1,5 @@
+1. Run docker compose pull to get the latest container image.
+2. Run docker compose up to deploy the website locally on localhost:8080
+3. Make any changes needed, save and push to GitHub.
+
+Each time, follow these steps.
